@@ -25,4 +25,4 @@ restaurante_praca = Restaurante('Praça', 'Gourmet')
 restaurante_pizza = Restaurante('Pizza Express', 'Italiana')
 
 Restaurante.listar_restaurantes()
-
+teste
