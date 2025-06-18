@@ -24,3 +24,4 @@ restaurante_praca._nome = 'Praça 2.0'
 restaurante_pizza = Restaurante('pizza Express', 'Italiana')
 
 Restaurante.listar_restaurantes()
+teste
